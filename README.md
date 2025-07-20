@@ -10,7 +10,7 @@
 ## 🗺️ ผังสมบัติลับแห่งอาณาจักร API
 
 ```
-api-proxy-example-fastapi/
+ai-for-thai/
 ├── api1/                 # ดินแดนของประตูมิติ 🔮
 │   ├── main.py           # หัวใจแห่งการร่ายเวท
 │   ├── Dockerfile        # ตำราการสร้างประตูวาร์ป
@@ -38,8 +38,8 @@ api-proxy-example-fastapi/
 ### 🌀 ขั้นที่ 1: โคลนคัมภีร์ศักดิ์สิทธิ์ลงมาสู่ดินแดนของท่าน
 
 ```bash
-git clone https://github.com/<ชื่อผู้ใช้ของท่าน>/api-proxy-example-fastapi.git
-cd api-proxy-example-fastapi
+git clone https://github.com/Chonapatcc/ai-for-thai.git
+cd ai-for-thai
 ```
 
 📌 *อย่าลืมสร้างคลังเวทมนตร์ของตัวเองใน GitHub หรือ GitLab ก่อนนะ!*
